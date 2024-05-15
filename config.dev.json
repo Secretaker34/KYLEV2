@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100052395031835",
-    ""
+    "100087657072447"
   ],
   "whiteListMode": {
     "enable": false,
@@ -28,9 +28,9 @@
   "OWNER": "Kyle Bait-it",
   "AGE": "19",
   "GENDER": "MALE",
-  "nickNameBot": "≫ = ≪ ◈➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𓃵",
+  "nickNameBot": "≫ - ≪ ◈➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𓃵",
   "FACEBOOK": "https://www.facebook.com/kyleyukaro",
-  "prefix": "=",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
